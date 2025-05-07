@@ -1,0 +1,170 @@
+body {
+	font-family: Arial, sans,serif;
+	background-color: #ECBDC4;
+}
+
+#menu {
+	background-color: #E4A0B7;
+	padding: 10px;
+	border-radius: 12px;
+}
+
+#menu a {
+	color: black;
+	text-decoration: none;
+	margin: 5px;
+
+}
+
+h1 {
+	color: lightpink;
+	font-family: Adelaide;
+	text-align: center;
+        margin-right: 600px;
+        margin-left: 600px;
+ 	background-color: #E18AAA;
+	border-radius: 20px;
+}
+
+#pab {
+	color: lightpink;
+	font-family: Adelaide;
+    display: block;
+	margin: auto;
+    text-align: center;
+	margin-bottom: 10px;
+        margin-right: 650px;
+        margin-left: 650px;
+	font-size: 20px;
+	padding: 5px;
+	background-color: darkgrey;
+	border-radius: 40px;
+
+}
+
+
+button {
+	display: block;
+	margin: auto;
+        margin-top: 10px;
+	color: pink;
+	width: 200px;
+	height: 100px;
+	font-size: 40px;
+	font-family: Adelaide;
+	background-color: #E18AAA;
+	border-radius: 12px;
+}
+
+#im1 {
+	display: block;
+	margin: auto;
+        margin-left: 75px;
+        margin-top: 10px;
+    width: 600px;
+    height: 400px;
+
+
+}
+
+#im2 {
+    
+    width: 200px;
+    height: 100px;
+    display: block;
+    margin: auto;
+        margin-right: 75px;
+	margin-top: 10px;
+    width: 600px;
+    height: 400px;
+}
+
+#images {
+    display: flex;
+    margin-top: 10px;
+}
+	
+
+#info { 
+    display: flex;
+    color: lightpink;
+    font-family: Adelaide;
+    height: 100px;
+    font-size: 20px;
+    
+}
+
+#info #abt {
+    padding; 5px;
+    background-color: darkgrey;
+    border-radius: 12px;
+    width: 400px;
+    margin-left: 150px;
+    height: 100px;
+    text-align: center;
+}
+
+#info #lctn {
+    padding; 5px;
+    background-color: darkgrey;
+    border-radius: 12px;
+    width: 400px;
+    margin-left:450px;
+    height: 100px;
+    text-align: center;
+}
+
+button:hover {
+        background-color: palevioletred;
+}
+
+#title {
+    display: flex;
+}
+
+#title #lgleft {
+    margin-left: 250px;
+    width: 200px;
+    height: 200px;
+    margin-top: 175px
+} 
+
+#title #lgright {
+    margin-left: -375px;
+    width: 200px;
+    height: 200px;
+    margin-top: 175px
+} 
+
+#title #bbt {
+	color: lightpink;
+	font-family: Adelaide;
+	font-size: 50px;
+	margin-left: 230px;
+	margin-top: 200px;
+ 	background-color: #E18AAA;
+	border-radius: 20px;
+    height: 125px;
+    width: 225px;
+
+} 
+
+#art {
+	display: flex;
+}
+#title #roses{
+	transform: rotate(270deg);
+	margin-left: -175px;
+	margin-top: -260px;
+	width: 160px;
+	height: 700px;
+}
+
+#title #roses2{
+	transform: rotate(90deg);
+	margin-left: -1100px;
+	margin-top: -260px;
+	width: 160px;
+	height: 700px;
+}
+

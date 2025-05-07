@@ -1,0 +1,111 @@
+body {
+	font-family: Arial, sans,serif;
+	background-color: #ECBDC4;
+}
+
+#menu {
+	background-color: #E4A0B7;
+	padding: 10px;
+	border-radius: 12px;
+}
+
+#menu a {
+	color: black;
+	text-decoration: none;
+	margin: 5px;
+
+}
+
+h1 {
+	color: lightpink;
+	font-family: Adelaide;
+	text-align: center;
+        margin-right: 600px;
+        margin-left: 600px;
+ 	background-color: #E18AAA;
+	border-radius: 20px;
+}
+
+p {
+	color: lightpink;
+	font-family: Adelaide;
+    display: block;
+	margin: auto;
+    text-align: center;
+        margin-right: 400px;
+        margin-left: 400px;
+	font-size: 20px;
+	padding: 5px;
+	background-color: darkgrey;
+	border-radius: 40px;
+
+}
+
+
+button {
+	display: block;
+	margin: auto;
+        margin-top: 10px;
+	color: pink;
+	width: 200px;
+	height: 100px;
+	font-size: 40px;
+	font-family: Adelaide;
+	background-color: #E18AAA;
+	border-radius: 12px;
+}
+
+img {
+	display: block;
+	margin: auto;
+        margin-top: 10px;
+
+
+}
+
+
+#title {
+    display: flex;
+}
+
+#title #lgleft {
+
+    width: 200px;
+    height: 200px;
+    margin-top: 175px;
+    margin-left: -400;
+} 
+
+#title #lgright {
+    margin-left: -475px;
+    width: 200px;
+    height: 200px;
+    margin-top: 175px
+} 
+
+#title #bbt {
+	color: lightpink;
+	font-family: Adelaide;
+	font-size: 50px;
+	margin-left: 30px;
+	margin-top: 200px;
+ 	background-color: #E18AAA;
+	border-radius: 20px;
+    height: 125px;
+    width: 225px;
+
+} 
+
+
+
+#rose{
+	height: 400px;
+	transform: rotate(180deg);
+}
+
+#title #rose2{
+
+	height: 400px;
+}
+
+
